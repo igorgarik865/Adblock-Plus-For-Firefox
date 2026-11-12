@@ -187,4 +187,4 @@ This repository serves as the official landing page for AdBlock Plus. The softwa
 **Get the most recent version of AdBlock Plus today!**
 
 ---
-**Last updated:** 2026-11-11 18:19:12 UTC
+**Last updated:** 2026-11-12 01:15:54 UTC
